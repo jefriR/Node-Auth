@@ -1,0 +1,9 @@
+express     => Framework utama
+mongoose    => Driver untuk DB mongoo DB
+body-parser => Untuk passing data dari body ke controller
+nodemon     => Untuk live server
+dotenv      => Untuk menyembunyikan setting DB
+@hapi/joi   => Untuk validasi inputan dari user 
+bcryptjs    => Untuk encrypt password
+jsonwebtoken=> Untuk token
+
